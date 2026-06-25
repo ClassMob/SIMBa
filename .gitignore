@@ -1,0 +1,21 @@
+# python & Environnement*
+venv/
+__pycache__/
+*.pyc
+
+#data
+data/raw/
+data/processed/
+
+#java & spring boot
+target/
+*.jar/
+*.class/
+
+#file systems / OS
+.DB_Store
+Thumbs.db
+
+#IDE
+.idea/
+.vscode/
